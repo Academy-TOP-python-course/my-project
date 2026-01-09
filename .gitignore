@@ -1,0 +1,6 @@
+/ignore_dir/
+# Игнорируем файлы и папки для VS Code
+.vscode/          # Каталог настроек VS Code
+*.code-workspace  # Файлы рабочих областей VS Code
+.idea/            # Каталог конфигурации IntelliJ IDEA
+*.iml             # Файлы модулей IntelliJ IDEA
