@@ -4,3 +4,4 @@
 *.code-workspace  # Файлы рабочих областей VS Code
 .idea/            # Каталог конфигурации IntelliJ IDEA
 *.iml             # Файлы модулей IntelliJ IDEA
+README.md
