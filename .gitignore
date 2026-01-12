@@ -5,3 +5,4 @@
 .idea/            # Каталог конфигурации IntelliJ IDEA
 *.iml             # Файлы модулей IntelliJ IDEA
 README.md
+/not_in_project.txt
